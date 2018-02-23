@@ -20,6 +20,9 @@ namespace First_Xamarin_app.iOS
                 Button.Dispose();
                 Button = null;
             }
+            else {
+                
+            }
         }
     }
 }

@@ -12,6 +12,7 @@ namespace First_Xamarin_app.iOS
 
         public override UIWindow Window
         {
+            //getters and setters
             get;
             set;
         }
